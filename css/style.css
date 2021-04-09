@@ -372,14 +372,6 @@ body {
         top: 20px;
     }
 
-    .menu-button {
-        display: none;
-    }
-
-    .sidebar {
-        display: none;
-    }
-
     .content {
         padding-left: 32px;
     }
